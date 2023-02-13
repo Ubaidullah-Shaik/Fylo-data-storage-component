@@ -1,0 +1,171 @@
+body{
+    background-image: url(https://github.com/lynnecodes/FM-Fylodatastorage/blob/main/images/bg-desktop.png?raw=true);
+    background-repeat:repeat-x;
+    background-color: hsl(229, 57%, 11%);
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    margin: 50px auto auto 0px;
+}
+.left-container{
+    width: 328px;
+    height: 184px;
+    background-color: hsl(228, 56%, 26%);
+    border-radius: 10px;
+    border-top-right-radius: 80px;
+    position: relative;
+    top: 200px;
+    left: 240px;
+
+}
+.logo{
+    position: relative;
+    top: 20px;
+    left: 25px;
+}
+.doc{
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: hsl(229, 57%, 11%);
+    position: relative;
+    left: 25px;
+    top: 50px;
+}
+.folder{
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: hsl(229, 57%, 11%);
+    position: relative;
+    left: 92px;
+    
+}
+.upload{
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: hsl(229, 57%, 11%);
+    position: relative;
+    bottom: 50px;
+    left: 160px;
+}
+.doc-img{
+    margin-top: 12px;
+    margin-bottom: 12px;
+    margin-left: 15px;
+}
+.folder-img{
+    margin-top: 15px;
+    margin-left: 13px;
+}
+.upload-img{
+    margin-top: 16px;
+    margin-left: 13px;
+}
+
+.right-container{
+    width: 545px;
+    height: 138px;
+    border-radius: 10px;
+    background-color: hsl(228, 56%, 26%);
+    position: relative;
+    top: 41px;
+    left: 590px;
+    
+}
+.p-right{
+    color: rgb(221,216,255);
+    font-size: 14px;
+    font-weight: 400;
+    position: relative;
+    bottom: 40px;
+    left: 60px;
+}
+.second{
+    font-weight: 700;
+}
+.popup{
+    width: 163px;
+    height: 60px;
+    border-radius: 10px;
+    border-bottom-right-radius: 0%;
+    background-color: white;
+    position: relative;
+    bottom: 30px;
+    left: 330px;
+}
+.p-popup{
+    color: hsl(229, 7%, 55%);
+    font-weight: 700;
+    position: relative;
+    bottom: 40px;
+    left: 90px;
+}
+h1{ 
+    font-family: 'Raleway', sans-serif;
+    font-size: 32px;
+    font-weight: 900;
+    color: black;
+    position: relative;
+    left: 25px;
+    top: 10px;
+}
+.arrow{
+    width: 0;
+    height: 0;
+    border-top: 25px solid white;
+    border-left: 25px solid transparent;
+    position: relative;
+    bottom: 32px;
+    left: 138px;
+}
+.max-level{
+    width: 434px;
+    height: 20px;
+    border-radius: 50px;
+    background-color: hsl(230, 44%, 20%);
+    margin:auto;
+    position: relative;
+    bottom: 37px;
+    
+}
+.final-level{
+    width: 350px;
+    height: 14px;
+    border-radius: 50px;
+    background-image: linear-gradient(to right, hsl(6, 100%, 80%), hsl(335, 100%, 65%));
+    margin-left: 3px;
+    position: relative;
+    top: 3px;
+}
+.circle{
+    width: 12px;
+    height: 12px;
+    border-radius: 50px;
+    background-color: white;
+    margin-left: 336px;
+    position: relative;
+    top: 1px;
+}
+.p1{
+    color: rgb(221,216,255);  
+    font-weight: 600;
+    position: relative;
+    bottom: 45px;
+    left: 59px;
+
+}
+.p2{
+    color: rgb(221,216,255);  
+    font-weight: 600;
+    position: relative;
+    bottom: 75px;
+    left: 435px;
+}
+.attribution{
+    color: rgb(221,216,255);
+    position: relative;
+    top: 65px;
+    right: 100px;
+}
+    
